@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: azure;
+}
+
+body{
+    background-color: darkslategrey;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
